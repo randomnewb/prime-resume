@@ -1,1 +1,1 @@
-# Respository to house my Prime Academy resume
+# Respository to house my Prime Academy resume.
